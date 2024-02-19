@@ -1,1 +1,3 @@
-# tugas-1
+Nama : Ikhsan Abdilla
+Hoby : Bersepeda
+Hewan peliharaan : Kucing
